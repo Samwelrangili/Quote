@@ -1,0 +1,7 @@
+
+<!-- <p>This quote will be complete in {{quote.completeDate|dateCount}} days</p> -->
+<p> {{quote.description}}</p>
+<button type="like" class="btn btn-info"><i class="fa fa-thumbs-up fa-2x" aria-hidden="true" (click)=likebuttonclick()>Likes
+{{numberoflikes}}</i></button>
+<button type="dislike" class="btn btn-info"><i class="fa fa-thumbs-down fa-2x ml-3" aria-hidden="true" (click)=dislikebuttonclick()>Dislikes{{numberofdislikes}}</i></button><br><br>
+<button (click)='quoteDelete(true)' class="btn btn-outline-danger">Delete Quote</button>
