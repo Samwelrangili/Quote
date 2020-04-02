@@ -26,7 +26,7 @@ else{
     new Quote(3, "Imagine Your Life Is Perfect In Every Respect; What Would It Look Like?. Author-Brian Tracy","",new Date(2019,9,2)),
     new Quote(4, "Security Is Mostly A Superstition. Life Is Either A Daring Adventure Or Nothing. Author-Helen Keller","",new Date(2018,6,2)),
     new Quote(5, "What You Lack In Talent Can Be Made Up With Desire, Hustle And Giving 110% All The Time. Author-Don Zimmer","",new Date(2018,3,4)),
-    new Quote(6, "Do not let what you can not do interfare with what you can do. Author-Samwel.A.Rangili","",new Date(2018,3,4)),
+    new Quote(6, "Do not let what you can not do interfare with what you can do. Author-Samwel.A.Rangili","",new Date(2020,4,2)),
 
   ];
   toggleDetails(index){
