@@ -15,7 +15,7 @@ export class QuoteComponent implements OnInit {
         this.quote.splice(index,1)
       }
 else{
-  alert('Thank you for leaving your quote!!!')
+  alert('Thank you for leaving your quote!!!.')
 }
     }
   }
