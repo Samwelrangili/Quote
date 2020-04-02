@@ -1,3 +1,19 @@
+# Project name 
+Quote
+
+# Author 
+Samwel .A.Rangili
+
+# Technologies used
+* CSS
+* HTML
+* BOOTSTRAP
+* JAVASCRIPT
+
+# Frame Work
+* ANGULAR
+
+
 # Quote
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.6.
