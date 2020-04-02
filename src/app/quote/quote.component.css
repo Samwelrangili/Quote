@@ -4,6 +4,7 @@
 }
 .container{
     background-image: url("https://images.pexels.com/photos/1415734/pexels-photo-1415734.jpeg?cs=srgb&dl=white-red-and-yellow-citrus-fruits-1415734.jpg&fm=jpg");
+    background-repeat: no-repeat;
 }
 body{
     background-color: wheat;
