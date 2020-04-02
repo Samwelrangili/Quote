@@ -13,6 +13,11 @@ Samwel .A.Rangili
 # Frame Work
 * ANGULAR
 
+# Contact
+* Email: samwelrangili896@gmail.com
+* Linkin: Samwel Rangili
+* Phone: 0758597216
+
 
 # Quote
 
