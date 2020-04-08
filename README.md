@@ -18,6 +18,9 @@ Samwel .A.Rangili
 * Linkin: Samwel Rangili
 * Phone: 0758597216
 
+# Live link
+* https://samwelrangili.github.io/Quote/
+
 
 # Quote
 
